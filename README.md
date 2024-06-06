@@ -1,4 +1,4 @@
-# Assignment2
+# Assignment 2
 
 To predict whether a cell is malignant(M) or benign(B)
 
